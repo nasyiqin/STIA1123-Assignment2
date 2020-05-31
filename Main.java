@@ -19,8 +19,6 @@ class MyFrame extends JFrame implements ActionListener {
     private JLabel product;
     private JComboBox makeup;
     private JLabel price;
-//    private JComboBox month;
-//    private JComboBox year;
     private JLabel add;
     private JTextArea tadd;
     private JCheckBox term;
